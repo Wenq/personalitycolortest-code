@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+ <!-- 白色 -->
+    <color name="snow">#fffafa</color>
+ <!-- 雪白色 -->
+    <color name="silver">#c0c0c0</color>
+ <!-- 银色 -->
+    <color name="blue">#0000FF</color>
+ <!-- 蓝色 -->
+    <color name="skyblue">#87ceeb</color>
+ <!-- 天蓝色 -->
+    <color name="darkgrey">#a9a9a9</color>
+ <!-- 暗灰色 -->
+ <color name="black">#000000</color>
+ <!-- 黑色 -->
+
+</resources>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--xml文件模板-->
+<PersonalityColorTestItems>
+
+	<PersonalityColorTestItem>
+		<Title>1111</Title>
+		<OptionA>qqqq</OptionA>
+		<OptionB>eeee</OptionB>
+		<OptionC>rrr</OptionC>
+		<OptionD>ddd</OptionD>
+	</PersonalityColorTestItem>
+
+	<PersonalityColorTestItem>
+		<Title>1111</Title>
+		<OptionA>qqqq</OptionA>
+		<OptionB>eeee</OptionB>
+		<OptionC>rrr</OptionC>
+		<OptionD>ddd</OptionD>
+	</PersonalityColorTestItem>
+
+</PersonalityColorTestItems>
